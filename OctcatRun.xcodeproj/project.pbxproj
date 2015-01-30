@@ -14,6 +14,7 @@
 		6D09E30F1A691C8500ADAF2C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D09E30E1A691C8500ADAF2C /* Images.xcassets */; };
 		6D09E3121A691C8500ADAF2C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6D09E3101A691C8500ADAF2C /* LaunchScreen.xib */; };
 		6D09E31E1A691C8500ADAF2C /* OctcatRunTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D09E31D1A691C8500ADAF2C /* OctcatRunTests.m */; };
+		6D09E3281A691E1900ADAF2C /* Octocat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D09E3271A691E1900ADAF2C /* Octocat@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		6D09E3171A691C8500ADAF2C /* OctcatRunTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OctcatRunTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D09E31C1A691C8500ADAF2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6D09E31D1A691C8500ADAF2C /* OctcatRunTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OctcatRunTests.m; sourceTree = "<group>"; };
+		6D09E3271A691E1900ADAF2C /* Octocat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Octocat@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		6D09E3001A691C8500ADAF2C /* OctcatRun */ = {
 			isa = PBXGroup;
 			children = (
+				6D09E3271A691E1900ADAF2C /* Octocat@2x.png */,
 				6D09E3051A691C8500ADAF2C /* AppDelegate.h */,
 				6D09E3061A691C8500ADAF2C /* AppDelegate.m */,
 				6D09E3081A691C8500ADAF2C /* ViewController.h */,
@@ -168,6 +171,7 @@
 				TargetAttributes = {
 					6D09E2FD1A691C8500ADAF2C = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = JPFQLUKQ7U;
 					};
 					6D09E3161A691C8500ADAF2C = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -199,6 +203,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D09E3281A691E1900ADAF2C /* Octocat@2x.png in Resources */,
 				6D09E30D1A691C8500ADAF2C /* Main.storyboard in Resources */,
 				6D09E3121A691C8500ADAF2C /* LaunchScreen.xib in Resources */,
 				6D09E30F1A691C8500ADAF2C /* Images.xcassets in Resources */,
